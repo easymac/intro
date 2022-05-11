@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "nice_nano")(type "Legacy")(uri "${KIPRJMOD}/symbols/nice_nano.lib")(options "")(descr ""))
+  (lib (name "eec")(type "Legacy")(uri "${KIPRJMOD}/symbols/eec.lib")(options "")(descr ""))
+  (lib (name "IS31FL3737B-QFLS4-TR")(type "Legacy")(uri "${KIPRJMOD}/symbols/IS31FL3737B-QFLS4-TR.lib")(options "")(descr ""))
+  (lib (name "IS31FL3741A-QFLS4-TR")(type "Legacy")(uri "${KIPRJMOD}/symbols/IS31FL3741A-QFLS4-TR.lib")(options "")(descr ""))
+)
