@@ -1,9 +1,9 @@
 (footprint "SW_choc_1.5u" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 627669BD)
+  (tedit 62982A15)
   (descr "Footprint for Kailh Choc style switches")
   (attr through_hole exclude_from_pos_files exclude_from_bom)
-  (fp_text reference "REF**" (at 0 2.75) (layer "Dwgs.User") hide
+  (fp_text reference "REF**" (at 0 2.75) (layer "Dwgs.User")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 52b76f2f-8a7b-4d8b-ab85-4b5412433a29)
   )
