@@ -8942,7 +8942,7 @@
     (uuid 33096a52-edee-4914-9c26-077d40e07d9d)
     (property "Reference" "SW34" (id 0) (at 353.06 257.81 0))
     (property "Value" "SW_Push" (id 1) (at 353.06 260.35 0))
-    (property "Footprint" "intro:SW_choc_Reversible_2u_STAB" (id 2) (at 353.06 260.35 0)
+    (property "Footprint" "intro:SW_choc_2u_STAB" (id 2) (at 353.06 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 353.06 260.35 0)
@@ -10737,7 +10737,7 @@
     (uuid 925bed86-c55a-4065-a929-b38a8b6f0254)
     (property "Reference" "SW32" (id 0) (at 320.04 257.81 0))
     (property "Value" "SW_Push" (id 1) (at 320.04 260.35 0))
-    (property "Footprint" "intro:SW_choc_Reversible_2u_STAB" (id 2) (at 320.04 260.35 0)
+    (property "Footprint" "intro:SW_choc_2u_STAB" (id 2) (at 320.04 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 320.04 260.35 0)
@@ -13341,13 +13341,13 @@
       (reference "SW31") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_1u")
     )
     (path "/925bed86-c55a-4065-a929-b38a8b6f0254"
-      (reference "SW32") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_Reversible_2u_STAB")
+      (reference "SW32") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_2u_STAB")
     )
     (path "/60341cc5-8bc1-4a06-a6b1-f92e4d2ddecc"
       (reference "SW33") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_1.5u")
     )
     (path "/33096a52-edee-4914-9c26-077d40e07d9d"
-      (reference "SW34") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_Reversible_2u_STAB")
+      (reference "SW34") (unit 1) (value "SW_Push") (footprint "intro:SW_choc_2u_STAB")
     )
     (path "/ed5637ea-644f-49cf-80ea-63efc66aa558"
       (reference "SW35") (unit 1) (value "RotaryEncoder_Switch") (footprint "intro:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_modified")
